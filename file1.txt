@@ -1,0 +1,2 @@
+This is my first file and revision to git and github.
+I hope I get to understand fully how this works again and be up for task
